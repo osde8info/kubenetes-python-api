@@ -1,6 +1,10 @@
 Listing pods with their IPs:
+default                        alertmanager-7d859c7d9d-bmx24                      2022-01-28 09:24:13+00:00
 kube-system                    coredns-64897985d-ntx7f                            2022-01-28 07:44:16+00:00
+kube-system                    elasticsearch-58dfcd4fb6-tz8nr                     2022-01-28 09:24:07+00:00
 kube-system                    etcd-minikube                                      2022-01-28 07:44:05+00:00
+kube-system                    fluentd-9ppch                                      2022-01-28 09:24:07+00:00
+kube-system                    kibana-7c4d48969f-7zvj5                            2022-01-28 09:24:07+00:00
 kube-system                    kube-apiserver-minikube                            2022-01-28 07:44:05+00:00
 kube-system                    kube-controller-manager-minikube                   2022-01-28 07:44:07+00:00
 kube-system                    kube-proxy-rcsl7                                   2022-01-28 07:44:16+00:00
@@ -8,6 +12,12 @@ kube-system                    kube-scheduler-minikube                          
 kube-system                    storage-provisioner                                2022-01-28 07:44:14+00:00
 kubernetes-dashboard           dashboard-metrics-scraper-58549894f-r9mzv          2022-01-28 07:44:16+00:00
 kubernetes-dashboard           kubernetes-dashboard-ccd587f44-nltkj               2022-01-28 07:44:16+00:00
+monitoring                     grafana-core-5f67fd9d9c-7w72f                      2022-01-28 09:26:32+00:00
+monitoring                     grafana-import-dashboards-dkx9j                    2022-01-28 09:26:34+00:00
+monitoring                     kube-state-metrics-58f776758-2z5s7                 2022-01-28 09:26:32+00:00
+monitoring                     node-directory-size-metrics-lxhvr                  2022-01-28 09:26:32+00:00
+monitoring                     node-exporter-hfpxc                                2022-01-28 09:26:35+00:00
+monitoring                     prometheus-deployment-86f444dcb6-99pgd             2022-01-28 09:26:32+00:00
 sock-shop                      carts-76dd6bf8f9-9t7rx                             2022-01-28 08:24:54+00:00
 sock-shop                      carts-db-775b544b45-mxm7m                          2022-01-28 08:24:54+00:00
 sock-shop                      catalogue-5f495f9cf8-mkj87                         2022-01-28 08:24:54+00:00
